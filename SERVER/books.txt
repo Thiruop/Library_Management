@@ -1,0 +1,142 @@
+[
+  {
+    "id": "B001",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "availability_status": "available"
+  },
+  {
+    "id": "B002",
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian Fiction",
+    "availability_status": "available"
+  },
+  {
+    "id": "B003",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "availability_status": "available"
+  },
+  {
+    "id": "B004",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "availability_status": "available"
+  },
+  {
+    "id": "B005",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "availability_status": "available"
+  },
+  {
+    "id": "B006",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "availability_status": "available"
+  },
+  {
+    "id": "B007",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "availability_status": "available"
+  },
+  {
+    "id": "B008",
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "genre": "Young Adult",
+    "availability_status": "available"
+  },
+  {
+    "id": "B009",
+    "title": "Lord of the Flies",
+    "author": "William Golding",
+    "genre": "Fiction",
+    "availability_status": "available"
+  },
+  {
+    "id": "B010",
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "availability_status": "available"
+  },
+  {
+    "id": "B011",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "availability_status": "available"
+  },
+  {
+    "id": "B012",
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "genre": "Mystery",
+    "availability_status": "available"
+  },
+  {
+    "id": "B013",
+    "title": "Gone with the Wind",
+    "author": "Margaret Mitchell",
+    "genre": "Historical Fiction",
+    "availability_status": "available"
+  },
+  {
+    "id": "B014",
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "availability_status": "available"
+  },
+  {
+    "id": "B015",
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian Fiction",
+    "availability_status": "available"
+  },
+  {
+    "id": "B016",
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "availability_status": "available"
+  },
+  {
+    "id": "B017",
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "Gothic Fiction",
+    "availability_status": "available"
+  },
+  {
+    "id": "B018",
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "Gothic Fiction",
+    "availability_status": "available"
+  },
+  {
+    "id": "B019",
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Gothic Fiction",
+    "availability_status": "available"
+  },
+  {
+    "id": "B020",
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "Gothic Fiction",
+    "availability_status": "available"
+  }
+]

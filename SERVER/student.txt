@@ -1,0 +1,32 @@
+[
+  {
+    "id": "M001",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "books_borrowed": []
+  },
+  {
+    "id": "M002",
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "books_borrowed": []
+  },
+  {
+    "id": "M003",
+    "name": "Michael Johnson",
+    "email": "michael.johnson@example.com",
+    "books_borrowed": []
+  },
+  {
+    "id": "M004",
+    "name": "Emily Brown",
+    "email": "emily.brown@example.com",
+    "books_borrowed": []
+  },
+  {
+    "id": "M005",
+    "name": "David Wilson",
+    "email": "david.wilson@example.com",
+    "books_borrowed": []
+  }
+]
